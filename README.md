@@ -54,8 +54,10 @@ I enjoy architecting systems that blend **AI reasoning with enterprise-grade rel
 
 ### ✍️ Writing & Knowledge Sharing  
 
-I write on [**Medium**](https://medium.com/@saad.07) about:  
-> ☁️ AWS Architecture • 🧠 Generative AI • 🤖 Bedrock & RAG • 🚀 Cloud Engineering Best Practices  
+💬 I share thoughts on **AI, AWS, and Cloud Engineering** on [**X (Twitter)**](https://x.com/SaadAlam_)  
+📝 I also write articles on [**Medium**](https://medium.com/@saad.07) about:  
+
+> ☁️ **AWS Architecture** • 🧠 **Generative AI** • 🤖 **Bedrock & RAG** • 🚀 **Cloud Engineering Best Practices**
 
 ---
 
@@ -70,6 +72,7 @@ I write on [**Medium**](https://medium.com/@saad.07) about:
 ### 📫 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadalampk/)  
+[![X (Twitter)](https://img.shields.io/badge/X%20(Twitter)-black?logo=x&logoColor=white)](https://x.com/SaadAlam_) 
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@saad.07)  
 
 ---
